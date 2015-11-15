@@ -1,0 +1,4 @@
+this is week1 task of diary
+ test1
+中文
+test2
